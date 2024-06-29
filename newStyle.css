@@ -1,0 +1,58 @@
+.main-body{
+    background-color: rgb(46, 46, 46);
+}
+.main-container{
+    width: 60%;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 50px;
+    margin-left: 20%;
+    background-color: rgb(245, 245, 245);
+    border-radius: 8px;
+    box-shadow: 0px 0px 30px 2px grey;
+}
+.head-btn{
+    display: flex;
+    justify-content: space-between;  
+}
+.btn-success, .btn-danger{
+    width: 200px;
+}
+.btn-list{  
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.same-btn{
+    width: 70px;
+    height: 40px;
+}
+.counter{
+    height: 40px;
+}
+.main-sub_container{
+    width: 90%;
+    margin-left: 10.0%;
+    background-color: rgb(245, 245, 245);
+}
+.printed-comment{
+    font-size: 20px;
+    text-align: start;
+    margin-top: -12px;
+}
+.replied-comment{
+    text-align: start;
+    font-size: 17px;
+}
+.error-msg{
+    color: red;
+    text-align: left;
+    font-size: 15px;
+}
+.comment-section{
+    margin-top: -10px;
+    background-color: rgb(245, 245, 245);
+}
+.comment-section li{
+    background-color: rgb(245, 245, 245);
+}
