@@ -14,4 +14,4 @@ Comment-Box is the name of the project. It describes the whole project in one se
    - I making this project with help of HTML, CSS and javascript. This project has not inculded any Tech Stack, Database, APIs.
 
  - WHAT features, technical things you had implemented ?
-   - I implemented only html, css and javascript feature. Its included samantic tags for better understanding of others and. And in css part i used id selector for styling.
+   - I implemented only html, css and javascript feature.Its included samantic tags for better understanding of others and. And in css part i used id selector for styling.
